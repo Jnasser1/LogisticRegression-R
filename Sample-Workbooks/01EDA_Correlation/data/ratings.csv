@@ -1,0 +1,28 @@
+UNIQUE_ID,PRODUCT_NAME,COMPANY,PRODUCT_TYPE,PRODUCT_CATEGORY,COST_PRICE,SELLING_PRICE,QUANTITY_DEMANDED,RATINGS
+GSK06,S AloeverS Gel,S,beauty products,bodycare,445.05,534.06,111,3.5
+GSK127,B Bodywash,B,beauty products,1,203.68,244.416,321,5
+GSK128,A red lipstick,A,beauty products,lipstick,537.5,645,18,3
+GSK132,B Eyeliner,B,beauty products,eye-makeup,252.2,302.64,221,4
+GSK136,B Hair oil,B,beauty products,haircare,450,540,101,3
+GSK138,A blue nailpolish,A,beauty products,nailpolish,404.9,485.88,111,4.5
+GSK139,B brown lipstick,B,beauty products,lipstick,576.2,691.44,10,2
+GSK144,S orange lipstick,S,beauty products,lipstick,516,619.2,14,3
+GSK145,S Moisturizer,S,beauty products,bodycare,553.84,664.608,81,2
+GSK149,B Body oil,B,beauty products,bodycare,548.9,658.68,91,4
+GSK15,A Body oil,A,beauty products,bodycare,516.26,619.512,119,3
+GSK150,A deodorant,A,beauty products,bodycare,279.5,335.4,201,4
+GSK155,S Soap,S,beauty products,bodycare,151.24,181.488,301,5
+GSK159,A pink nailpolish,A,beauty products,nailpolish,404.9,485.88,111,3.5
+GSK23,B Kajal,B,beauty products,eye-makeup,203.82,244.584,292,4.5
+GSK35,S perfume,S,beauty products,bodycare,602,722.4,20,1
+GSK36,B Lip balm,B,beauty products,bodycare,252.2,302.64,221,4.5
+GSK45,C facewash,C,beauty products,bodycare,253.08,303.696,245,4.5
+GSK49,A orange lipstick,A,beauty products,lipstick,537.5,645,23,4
+GSK69,B perfume,B,beauty products,bodycare,602,722.4,20,1
+GSK76,S brown lipstick,S,beauty products,lipstick,516,619.2,20,3
+GSK80,S orange nailpolish,S,beauty products,nailpolish,401.6,481.92,110,3
+GSK84,A perfume,A,beauty products,bodycare,623.5,748.2,45,2
+GSK89,A Eyeliner,A,beauty products,eye-makeup,219.56,263.472,212,4.5
+GSK91,S red nailpolish,S,beauty products,nailpolish,401.6,481.92,110,4
+GSK92,B sanitary napkins,B,beauty products,bodycare,86,103.2,120,4
+GSK96,B bodyspray,B,beauty products,bodycare,387,464.4,180,4
