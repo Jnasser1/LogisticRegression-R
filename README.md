@@ -1,1 +1,1 @@
- Exploratory and Statistical Analysis in R using Juypter Notebook and RStudio.
+ R workbooks in Juypter showing exploratory and statistical analysis, data reduction techniques, data cleaning, regression models, and machine learning models.
